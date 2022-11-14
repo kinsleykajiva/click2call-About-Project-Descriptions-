@@ -4,6 +4,10 @@ Welcome to the **Click To Call** or click2call  business solution project .
 To understand the technical side of the project please make sure you have an understanding of the following :
 
 - [WebRTC](https://webrtc.org/)
+- [NodeJS](https://nodejs.org/en/)
+- [Docker](https://www.docker.com/)
+- [PM2](https://pm2.keymetrics.io/)
+- [Ubuntu Apache](https://ubuntu.com/tutorials/install-and-configure-apache#1-overview)  , [PHP](https://www.php.net/)
 - [Microservices](https://microservices.io/)
 - [MariaDB a SQL database ](https://mariadb.org/)
 - [Springboot](https://spring.io/projects/spring-boot)
