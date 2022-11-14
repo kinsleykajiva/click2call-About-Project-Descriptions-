@@ -10,6 +10,8 @@ To understand the technical side of the project please make sure you have an und
 - [Ubuntu Apache](https://ubuntu.com/tutorials/install-and-configure-apache#1-overview)  , [PHP](https://www.php.net/)
 - [Microservices](https://microservices.io/)
 - [MariaDB a SQL database ](https://mariadb.org/)
+- [Fast API](https://fastapi.tiangolo.com/)
+- [GitHub Action](https://github.com/features/actions)
 - [Springboot](https://spring.io/projects/spring-boot)
 - [Janus WebRTC Server](https://janus.conf.meetecho.com/) 
 - [AWS Dev Ops [not really required] ](https://aws.amazon.com/console/)
