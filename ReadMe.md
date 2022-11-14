@@ -11,7 +11,9 @@ To understand the technical side of the project please make sure you have an und
 - [AWS Dev Ops [not really required] ](https://aws.amazon.com/console/)
 - [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket) ,  [App logic example sample](https://www.cometchat.com/tutorials/how-to-build-a-chat-app-with-websockets-and-node-js)
 - [Socket IO](https://socket.io/docs/v4/)
-Repositories about this App find them here- https://github.com/kinsleykajiva?tab=repositories&q=click2call&type=&language=&sort=
+
+<hr>
+Repositories about this App find them here- https://github.com/kinsleykajiva?tab=repositories&q=click2call&type=&language=&sort= 
 
 This application is an application that aims to create support centers backend that has an Adminstrator view or side .
 This app is similar to apps like [Consolto](https://www.consolto.com/) or [jivochat](https://www.jivochat.com/) .
@@ -25,6 +27,10 @@ This widget will be a support chat box that allows the visitors of the site to a
 
 On the Admin Side of the app the Agents or admin users can see these queues of users and will choose who to chat with and who to assaign to
 ,The agent/admin users can accept a chat session as ticket .The system automatically creates once a user is taken by an agent .
+
+
+
+
 
 
 
