@@ -36,7 +36,7 @@ On the Admin Side of the app the Agents or admin users can see these queues of u
 
 
 
-
+<hr>
 Schema -
 ![Schema](clic2call-ERD.png)
 
